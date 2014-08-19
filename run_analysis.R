@@ -1,7 +1,4 @@
 # 1. Merges the training and the test sets to create one data set.
-
-library(data.table)
-
 setwd("/Users/koo7604/Desktop/R/Johns_Hopkins/GettingandCleaningData/week3/Getting_and_Cleaning_Data")
 
 ## get training data
